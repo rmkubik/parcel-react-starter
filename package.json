@@ -14,5 +14,5 @@
     "build": "parcel build src/index.html"
   },
   "author": "",
-  "license": "ISC"
+  "license": ""
 }
